@@ -107,15 +107,6 @@ For the API and the react too.
 
 
 
-### Example 1: Budgeting Advice
-**User:** "How can I create a monthly budget?"
-
-**Chatbot:** "To create a monthly budget, start by listing your income sources and fixed expenses. Allocate savings and discretionary spending. Use tools like Excel or budgeting apps to track expenses."
-
-### Example 2: Investment Guidance
-**User:** "What are good investment options for beginners?"
-
-**Chatbot:** "For beginners, consider index funds, ETFs, or high-yield savings accounts. Diversify your portfolio and invest for the long term. Always research before making financial decisions."
 
 ## Conclusion
 This financial chatbot provides users with real-time assistance, leveraging machine learning to generate relevant financial insights. Its integration with APIs ensures accessibility across different platforms, enhancing user experience and financial literacy.
